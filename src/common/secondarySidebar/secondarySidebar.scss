@@ -1,0 +1,18 @@
+.secondarySidebar{
+    height: 100%;
+    width: 160px;
+    background-color: rgb(228, 227, 227);
+    flex-shrink: 0;
+    ul{
+        padding-left: 0;
+        list-style: none;
+        li{
+            padding-top: 20px;
+            padding-left: 20px;
+            a{
+                text-decoration: none;
+                color: black;
+            }
+        }
+    }
+}
